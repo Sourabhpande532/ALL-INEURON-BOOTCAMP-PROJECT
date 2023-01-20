@@ -12,18 +12,18 @@ This repository contains projects given us as an assignment into **"JavaScript F
 <br>
 
 ## 🛑 HTML-CSS Assignments 🛑
-### 📌 **Link: (don't forget to check readme also)** <a href="">**Visit Now** 🚀</a>
+### 📌 **Link: (don't forget to check readme also)** <a href="https://github.com/Sourabhpande532/ALL-INEURON-BOOTCAMP-PROJECT/blob/master/HTML-CSS-ASSIGNMENT.md">**Visit Now** 🚀</a>
 
 <br>
 
 ## 🛑 TAILWIND-CSS ASSIGNMENT 🛑
-### 📌 **Link: (don't forget to check readme also)** <a href="">**Visit Now** 🚀</a>
+### 📌 **Link: (don't forget to check readme also)** <a href="https://github.com/Sourabhpande532/ALL-INEURON-BOOTCAMP-PROJECT/blob/master/TAILWIND-CSS-PROJECT.md">**Visit Now** 🚀</a>
 
 <br>
 
 ## 🛑 JAVASCRIPT-ALL-ASSIGMENT 🛑
-### 📌 **Link: (don't forget to check readme also)** <a href="">**Visit Now** 🚀</a>
-
+### 📌 **Link: (don't forget to check readme also)** <a href="https://github.com/Sourabhpande532/ALL-INEURON-BOOTCAMP-PROJECT/blob/master/JAVASCRIPT-ASSIGNMENT.md">**Visit Now** 🚀</a>
+s
 
 
 
@@ -32,7 +32,7 @@ This repository contains projects given us as an assignment into **"JavaScript F
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [sourabh pande]()
+- **LinkedIn** - [sourabh pande](https://www.linkedin.com/in/sourabh-pande-412170224/)
 - **email** - [mailto:sourabhpande43@gmail.com](mailto:sourabhpande43@gmail.com)
 
 ## 📌 Acknowledgments
