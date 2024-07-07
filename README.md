@@ -1,7 +1,7 @@
 ## ⭐ JavaScript Assignments ⭐
 
 
-This repository contains projects given us as an assignment into **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**, built using **HTML5, CSS3 and JavaScript**.
+This repository contains valuable projects for any beginner those who interested in web Development given us as an assignment into **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**, built using **HTML5, CSS3 and JavaScript**.
 
 ## 📌 Tech Stack
 
